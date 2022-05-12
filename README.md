@@ -1,8 +1,8 @@
 # Code Refactor Starter Code
 
-The objective of the project was to refactor the existing code to make it more accessible and user friendly.
+The objective of the project was to refactor the existing Horiseon code to make it more accessible and user friendly.
 
-The following changes were made:
+I made the following changes:
 
 -changed div in line 11 and 26 to header
 
